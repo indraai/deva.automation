@@ -1,0 +1,34 @@
+// Automation Deva
+// Copyright ©2000-2025 Quinn A Michaels; All rights reserved. 
+// Legal Signature Required For Lawful Use.
+// Distributed under VLA:21490477123408682036 LICENSE.md
+// Sunday, November 30, 2025 - 10:27:14 AM
+
+::BEGIN:MAIN
+# {{profil.ename}}
+
+img: {{profile.image}}
+
+{{profile}}
+
+talk: #automation help main:license
+
+::begin:hidden
+#color = {{profile.color}}
+#bgcolor = {{profile.bgcolor}}
+#bg = {{profile.bg}}
+copyright: {{profile.copyright}}
+::end:hidden
+::END:MAIN
+
+::BEGIN:LICENSE
+::begin:license:uid:21490477123408682036
+uid: 21490477123408682036
+time: 1764527234471
+date: Sunday, November 30, 2025 - 10:27:14 AM
+warning: 🪪 License Deva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained, #Arrest by Federal Authorities, and #Confiscation of the #Offenders #EntireProperty forfeit to Quinn A Michaels through a U.S. Federally Authorized Escrow Service is declared to be the #Punishment for #Sahasa of the #HighestDegree. #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement
+license: 46220923248993739422
+fingerprint: kZUvUfMlDGkyi3TCJ/y53tL/5VrA9yBxcQJcLaZ3f6o=
+copyright: Copyright ©2000-2025 Quinn A Michaels; All rights reserved.
+::end:license:uid:21490477123408682036
+::END:LICENSE

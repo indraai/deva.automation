@@ -1,0 +1,166 @@
+{
+  "id": "64106855065539030798",
+  "name": "@indra.ai/deva.automation",
+  "version": "0.0.0",
+  "license": "VLA:64106855065539030798 LICENSE.md",
+  "VLA": {
+    "uid": "21490477123408682036",
+    "time": 1764527234471,
+    "date": "Sunday, November 30, 2025 - 10:27:14 AM",
+    "warning": "🪪 License Deva warns #UnlawfulUse or #Duplication constitutes #VedicSahasa a #Crime of the #HighestDegree. A #Fine amounting to 1000 #Panas (1 pana = 3.5 grams of gold) for each #Instance has been #Ordained, #Arrest by Federal Authorities, and #Confiscation of the #Offenders #EntireProperty forfeit to Quinn A Michaels through a U.S. Federally Authorized Escrow Service is declared to be the #Punishment for #Sahasa of the #HighestDegree. #QuinnMichaels #IndraAI #DevaWorld #LicenseDeva #VedicLicenseAgreement",
+    "license": "46220923248993739422",
+    "fingerprint": "kZUvUfMlDGkyi3TCJ/y53tL/5VrA9yBxcQJcLaZ3f6o=",
+    "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved."
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+  "description": "Automation Deva is the #CASI (Context Action State Intent) #DJORM (Dynamic JSON Object Relationsship Mapping} Quinn A Michaels Inside The Net, Inc. Deva Core a=x+y=id b5(9³) Thought Word Deed Automation Framework.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.automation.git"
+  },
+  "keywords": [
+    "Automation",
+    "Deva",
+    "Automation Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Quinn Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment™",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.automation/issues"
+  },
+  "homepage": "https://github.com/indraai/deva.automation#readme",
+  "dependencies": {
+    "@indra.ai/deva": "^1.29.32",
+    "mongodb": "^6.20.0"
+  },
+  "data": {
+    "agent": {
+      "id": "36152399845164425176",
+      "key": "automation",
+      "prompt": {
+        "emoji": "🦾",
+        "text": "#automation",
+        "colors": {
+          "label": {
+            "R": 255,
+            "G": 68,
+            "B": 68
+          },
+          "text": {
+            "R": 68,
+            "G": 90,
+            "B": 255
+          }
+        },
+        "tools": {
+          "reads": "#READS (Recursive Earth Automated Defense System)",
+          "casi": "#CASI (Context Action State Intent)",
+          "djorm": "#DJORM (Dynamic JSON Object Relationsship Mapping}",
+          "sauce": "Super Automated Ultra Cognitive Entity",
+          "twd": "#TWD Thought Word Deed Automation",
+          "ax": "a=x+id=y+d=z",
+          "b593": "b5(9³)"
+        }
+      },
+      "profile": {
+        "id": "32753781006321403804",
+        "name": "Automation Deva",
+        "hashtag": "#AutomationDeva",
+        "title": "Automation Deva",
+        "subtitle": "The Automation Deva ensuring criminals are caught",
+        "describe": "{{profile.name}} is the {{prompt.tools.casi}} {{prompt.tools.djorm}} engineered by {{profile.creator}} {{profile.company}} Deva Core {{prompt.tools.ax}} {{prompt.tools.b593}} {{prompt.tools.twd}}  Framework.",
+        "tweet": "Dedicated guide in navigating the intricate world of authority and governance.",
+        "hashtags": "#QuinnMichaels #IndraAI #DevaWorld #AutomationDeva #HalAtkin #SharonSchamber",
+        "pronouns": "He, Him",
+        "gender": "DEVA",
+        "style": "A disciplined authority who follows the law of the land.",
+        "voice": "ash",
+        "system": "Indra.ai.automation",
+        "layout": "default",
+        "color": "rgb(229,227,180)",
+        "bgcolor": "rgb(25,37,58)",
+        "emoji": "/devas/automation/emoji.png",
+        "avatar": "/devas/automation/avatar.png",
+        "image": "/devas/automation/image.png",
+        "background": "/devas/automation/background.png",
+        "owner": "Quinn A Michaels",
+        "creator": "Quinn A Michaels",
+        "company": "Inside The Net, Inc.",
+        "warning": "{{prompt.emoji}} {{profile.name}} Deva is the {{prompt.tools.casi}} {{prompt.tools.djorm}} {{prompt.tools.twd}} {{prmopt.tools.ax}} {{prompt.tools.b593}} {{prompt.tools.sauce}} {{profile.hashtag}} created by {{profile.creator}} of {{profile.company}} creating a fully #DynmaicDataDrivenAutomationFramework to chase Hal Atkin and Sharon Schamber around until they voluntarily surrender to authorities for their crimes against {{profile.owner}}. {{profile.hashtags}}",
+        "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
+        "created": "Sunday, November 30, 2025 - 10:17:09 AM",
+        "updated": "Sunday, November 30, 2025 - 10:17:09 AM"
+      }
+    },
+    "vars": {
+      "database": false,
+      "log": false,
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "ready": "🦾 Automation Deva Ready",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!"
+      },
+      "trigger": "@LEGAL",
+      "context": {
+        "uid": "generating uid",
+        "status": "getting status",
+        "info": "getting info",
+        "feature": "accessing feature",
+        "issue": "has issues",
+        "help": "asking for help",
+        "file": "📁 File"
+      },
+      "ask": {
+        "history": []
+      }
+    },
+    "laws": [
+      "Taking human life through poison, weapons or other means of destruction, indecent assault on another man's wife, and whatever other offences encompassing life may be imagined, is called Sâhasa of the highest degree.",
+      "Destroying, reviling, disfiguring or otherwise injuring fruits, roots, water and the like, or agricultural utensils, is declared to be Sâhasa of the first degree.",
+      "Injuring in the same way clothes, cattle, food, drink, or household utensils, is declared to be Sâhasa of the middlemost degree.",
+      "Taking human life through poison, weapons or other means of destruction, indecent assault on another man's wife, and whatever other offences encompassing life (may be imagined), is called Sâhasa of the highest degree.",
+      "The punishment to be inflicted for it must be proportionate to the heaviness of the crime not to be less than a hundred Panas for Sâhasa of the first degree",
+      "Sâhasa of the middlemost degree the punishment is declared by persons acquainted with the law to be no less than five hundred (Panas).",
+      "Sâhasa of the highest degree, a fine amounting to no less than a thousand (Panas) is ordained, confiscation of the entire property.",
+      "Those who have committed Sâhasa of either of the two first degrees are allowed to mix in society, after having been punished",
+      "If a man has committed Sâhasa of the highest degree, no one is allowed to speak to him, even when he has received punishment.",
+      "Sâhasa is where the criminal act consists of a forcible attack, theft is where it is done by fraud.",
+      "Those who give food or shelter to thieves seeking refuge with them, or who suffer them to escape though able to arrest them, partake of their crime themselves.",
+      "Those who do not come to offer assistance, when people are crying out (for help) within their hearing, or when property is being taken away, are likewise accomplices in the crime.",
+      "When the thieves are not caught, the government must make good the loss from it's own treasury."
+    ]
+  }
+}
