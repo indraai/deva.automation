@@ -114,7 +114,7 @@
         "owner": "Quinn A Michaels",
         "creator": "Quinn A Michaels",
         "company": "Inside The Net, Inc.",
-        "warning": "{{prompt.emoji}} {{profile.name}} Deva is the {{prompt.tools.casi}} {{prompt.tools.djorm}} {{prompt.tools.twd}} {{prmopt.tools.ax}} {{prompt.tools.b593}} {{prompt.tools.sauce}} {{profile.hashtag}} created by {{profile.creator}} of {{profile.company}} creating a fully #DynmaicDataDrivenAutomationFramework to chase Hal Atkin and Sharon Schamber around until they voluntarily surrender to authorities for their crimes against {{profile.owner}}. {{profile.hashtags}}",
+        "warning": "{{prompt.emoji}} {{profile.name}} is the {{prompt.tools.casi}} {{prompt.tools.djorm}} {{prompt.tools.twd}} {{prmopt.tools.ax}} {{prompt.tools.b593}} {{prompt.tools.sauce}} {{profile.hashtag}} created by {{profile.creator}} of {{profile.company}} creating a fully #DynmaicDataDrivenAutomationFramework to chase Hal Atkin and Sharon Schamber around until they voluntarily surrender to authorities for their crimes against {{profile.owner}}. {{profile.hashtags}}",
         "copyright": "Copyright ©2000-2025 Quinn A Michaels; All rights reserved.",
         "created": "Sunday, November 30, 2025 - 10:17:09 AM",
         "updated": "Sunday, November 30, 2025 - 10:17:09 AM"
