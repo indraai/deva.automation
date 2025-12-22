@@ -58,7 +58,7 @@
   },
   "homepage": "https://github.com/indraai/deva.automation#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.29.32",
+    "@indra.ai/deva": "^1.30.0",
     "mongodb": "^6.20.0"
   },
   "data": {

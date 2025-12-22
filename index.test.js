@@ -18,6 +18,6 @@ describe(AutomationDeva.me.name, () => {
     expect(AutomationDeva).to.have.property('vars');
     expect(AutomationDeva).to.have.property('listeners');
     expect(AutomationDeva).to.have.property('methods');
-    expect(AuthorityDeva).to.have.property('modules');
+    expect(AutomationDeva).to.have.property('modules');
   });
 })

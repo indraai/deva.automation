@@ -44,6 +44,7 @@ const AutomationDeva = new Deva({
   modules: {
     client: false,
   },
+  devas: {},
   func: {},
   methods: {},
   onInit(data, resolve) {

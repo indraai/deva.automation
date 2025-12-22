@@ -7,12 +7,12 @@
 
 export default {
   /**************
-  method: authority
+  method: automate
   params: packet
-  describe: The global authority feature that installs with every agent
+  describe: The global automate feature that installs with every agent
   ***************/
-  async authority(packet) {
-    const authority = await this.methods.sign('authority', 'default', packet);
-    return authority;
+  async automate(packet) {
+    const automate = await this.methods.sign('automate', 'default', packet);
+    return automate;
   },
 };
