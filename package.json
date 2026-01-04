@@ -58,7 +58,7 @@
   },
   "homepage": "https://github.com/indraai/deva.automation#readme",
   "dependencies": {
-    "@indra.ai/deva": "^1.30.2",
+    "@indra.ai/deva": "^1.32.0",
     "mongodb": "^6.20.0"
   },
   "data": {
@@ -70,13 +70,13 @@
         "text": "#automation",
         "colors": {
           "label": {
-            "R": 255,
-            "G": 68,
-            "B": 68
+            "R": 38,
+            "G": 255,
+            "B": 0
           },
           "text": {
-            "R": 68,
-            "G": 90,
+            "R": 0,
+            "G": 230,
             "B": 255
           }
         },
